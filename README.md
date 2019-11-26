@@ -1,2 +1,4 @@
-# Stock_Market_Analysis_and_Prediction
+# Stock market analysis and prediction
 Stock market price prediction is a vastly researched topic. By predicting the price of the share for the future, companies will make huge profits. Stock market prices depend on lots of factors which makes it hard to predict. Different machine learning algorithms are able to predict stock prices with good accuracy. This project aims to use stock information supplied by Google Finance, and use it for technical analysis, visualization, and prediction with different machine learning algorithms. By looking at stock market data, especially some stocks of gigantic technology and others. Used pandas to obtain stock data from Google Finance, visualized various elements of it, and lastly looked at a few ways to analyze a stock's data trends, based on its prediction.
+
+<img src='applestock.png'>
